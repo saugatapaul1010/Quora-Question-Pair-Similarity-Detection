@@ -1,2 +1,2 @@
-# Quora-Question-Pair-Similarity-Detection
-Given a pair of questions, the task is to determine if or not they are 100% similar, using various Machine Learning algorithms.
+<h1 style="text-align:center;font-size:30px;" > Quora Question Pairs Similarity Detection </h1>
+<img src='images/quora.jpg'/>
